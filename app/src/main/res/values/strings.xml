@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Question</string>
+    <string-array name="age">
+        <item>year?</item>
+        <item>last year?</item>
+        <item>next year?</item>
+    </string-array>
+</resources>
